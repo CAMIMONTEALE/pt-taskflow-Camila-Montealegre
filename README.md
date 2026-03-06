@@ -1,6 +1,6 @@
 # TaskFlow - Frontend Developer Technical Test
 
-[cite_start]Este repositorio contiene la solución a la prueba técnica para la posición de Frontend Developer en **Orquestia**[cite: 3, 4]. [cite_start]La aplicación, denominada **TaskFlow**, es un gestor de tareas que integra un CRUD completo consumiendo la API pública de DummyJSON[cite: 21].
+Este repositorio contiene la solución a la prueba técnica para la posición de Frontend Developer en **Orquestia**[cite: 3, 4]. [cite_start]La aplicación, denominada **TaskFlow**, es un gestor de tareas que integra un CRUD completo consumiendo la API pública de DummyJSON[cite: 21].
 
 ## 🚀 Guía de Instalación y Uso
 
