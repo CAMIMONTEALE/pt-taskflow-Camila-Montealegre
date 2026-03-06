@@ -7,9 +7,10 @@ La aplicación, denominada **TaskFlow**, es un gestor de tareas que integra un C
 
 El proyecto está configurado para ejecutarse localmente de forma sencilla siguiendo estos pasos:
 
-1. **Clonar el repositorio:**
+1. **Clonar el repositorio y navegar a su ubicación**
 ```bash   
 git clone https://github.com/CAMIMONTEALE/pt-taskflow-Camila-Montealegre.git
+cd pt-taskflow-Camila-Montealegre
 
 ```
 
@@ -22,10 +23,10 @@ pnpm install
 ```
 
 3. **Configurar variables de entorno:**
-Crea un archivo `.env.local` en la raíz del proyecto basándote en el archivo `.env.example` incluido.
+Crea un archivo  `.env.example` en la raíz del proyecto con el siguiente código.
 
 ```bash
-NEXT_PUBLIC_API_URL=[https://dummyjson.com](https://dummyjson.com)
+NEXT_PUBLIC_API_URL=https://dummyjson.com
 
 ```
 
